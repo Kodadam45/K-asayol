@@ -2,5 +2,5 @@
 
 echo download klasörüne gidiliyor %50
 echo download klasörüne gidiliyor %100
-işlem tamamlandı
+echo işlem tamamlandı
 cd /sdcard/download
